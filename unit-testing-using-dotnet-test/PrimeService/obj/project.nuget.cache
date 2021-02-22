@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9y4tQ5QmEP4rcH0Vkam+uw0poYGwlGHoZVXw5nE9alaFYgZLPDdIFQlKrsYuUgLqGOi6DHe4wSwg4sE9ctWk3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lurch\\OneDrive - Waukesha County Technical College\\DotNet Database\\Class4\\DotNetDb_Assignment4\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lurch\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lurch\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
